@@ -18,3 +18,24 @@
     * HTML, CSS & Git Basics
     * PhotoShop Basics
     * JavaScript Basics
+1.  **Code examples:**
+
+        function Fact(num)  //this function calculates factorial recursively
+            {
+                if (num === 0)
+                    return 1;
+                else
+                    return num * rFact(num - 1);
+            }
+1.  **Experience**
+   * Completed course HTML & CSS Basics on [*https://htmlacademy.ru/*](https://htmlacademy.ru/)
+   * Developed a site  [*http://holdstar.by*](http://holdstar.by)  on the Joomla framework.
+
+1. **Education** 
+    * [2001-2006] Belarusian State University of Informatics and Radioelectronics. Faculty of information technologies and control 
+    * [Foxford] WEB-программирование для школьников 8-11 класса.
+    * [Специалист] HTML и CSS. Уровень 1
+    * [HTML Academy] Месячный онлайн-интенсив по «HTML и CSS» (№8)
+
+1. **English** 
+    * English level - Preintermidiate (A2)
