@@ -18,6 +18,7 @@
     * HTML, CSS & Git Basics
     * PhotoShop Basics
     * JavaScript Basics
+    * C language for microcontrollers
 1.  **Code examples:**
 
         function Fact(num)  //this function calculates factorial recursively
