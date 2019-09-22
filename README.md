@@ -1,2 +1,4 @@
 # rsschool-cv
-[https://sidibrov.github.io/rsschool-cv/cv](https://sidibrov.github.io/rsschool-cv/cv)
+CV is [here](https://sidibrov.github.io/rsschool-cv/cv).
+
+
