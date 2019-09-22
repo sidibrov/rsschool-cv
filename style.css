@@ -1,0 +1,16 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+.info-container {
+    padding: 5px;
+    float: left;
+}
+.clearfix {
+    clear: both;
+}
